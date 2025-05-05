@@ -1,0 +1,17 @@
+.product-details, .cart-items {
+    padding: 20px;
+    background: #f8f8f8;
+    margin: 20px;
+  }
+  
+  #product-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .cart-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
